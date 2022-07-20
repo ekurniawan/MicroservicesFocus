@@ -32,8 +32,12 @@ spec:
             name: mssqldb
       volumes:
       - name: mssqldb
-        persistentVolumeClaim:
-          claimName: mssql-claim
+        hostPath:
+          path: /run/desktop/mnt/host/c/test
+          type: Directory
+      terminationGracePeriodSeconds: 30
+      securityContext:
+        fsGroup: 10001    
 ---
 apiVersion: v1
 kind: Service
