@@ -1,0 +1,17 @@
+C:\workshop\2022\Microservices\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.exe
+C:\workshop\2022\Microservices\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.deps.json
+C:\workshop\2022\Microservices\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.runtimeconfig.json
+C:\workshop\2022\Microservices\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.dll
+C:\workshop\2022\Microservices\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQConsumer.pdb
+C:\workshop\2022\Microservices\RabbitMQConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.csproj.AssemblyReference.cache
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.AssemblyInfoInputs.cache
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.AssemblyInfo.cs
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.csproj.CopyComplete
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.dll
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\refint\RabbitMQConsumer.dll
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.pdb
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\RabbitMQConsumer.genruntimeconfig.cache
+C:\workshop\2022\Microservices\RabbitMQConsumer\obj\Debug\net6.0\ref\RabbitMQConsumer.dll
