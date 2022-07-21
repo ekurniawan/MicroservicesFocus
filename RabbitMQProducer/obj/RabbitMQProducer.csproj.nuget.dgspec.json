@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj": {}
+    "c:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj": {}
   },
   "projects": {
-    "C:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj": {
+    "c:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj",
+        "projectUniqueName": "c:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj",
         "projectName": "RabbitMQProducer",
-        "projectPath": "C:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj",
+        "projectPath": "c:\\workshop\\2022\\Microservices\\RabbitMQProducer\\RabbitMQProducer.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\workshop\\2022\\Microservices\\RabbitMQProducer\\obj\\",
+        "outputPath": "c:\\workshop\\2022\\Microservices\\RabbitMQProducer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

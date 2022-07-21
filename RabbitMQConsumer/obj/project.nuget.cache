@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8o4bKPxsYljW44qC1D8ZE1vyGbEw7HMqWLO9rk8PbZzi5YNYBmVcYfFyLRdF84kkL7ZCZENcqQmd4M35vsXsog==",
+  "dgSpecHash": "DDTSjUrfd+g9MmZRmvnfOnXvevCoCe0SvNmXEc1Q6HYIFBAzBx56jJUu/ManB8dNCJb9CyNdK0AW5pP0TnRhqg==",
   "success": true,
-  "projectFilePath": "C:\\workshop\\2022\\Microservices\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
+  "projectFilePath": "c:\\workshop\\2022\\Microservices\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

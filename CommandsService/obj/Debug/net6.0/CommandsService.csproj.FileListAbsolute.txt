@@ -34,3 +34,4 @@ C:\workshop\2022\Microservices\CommandsService\obj\Debug\net6.0\CommandsService.
 C:\workshop\2022\Microservices\CommandsService\obj\Debug\net6.0\CommandsService.genruntimeconfig.cache
 C:\workshop\2022\Microservices\CommandsService\obj\Debug\net6.0\ref\CommandsService.dll
 C:\workshop\2022\Microservices\CommandsService\bin\Debug\net6.0\appsettings.Production.json
+C:\workshop\2022\Microservices\CommandsService\bin\Debug\net6.0\RabbitMQ.Client.dll
