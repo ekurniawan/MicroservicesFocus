@@ -11,7 +11,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<AppDbContext>(opt=>opt.UseInMemoryDatabase("InMem"));
+//builder.Services.AddDbContext<AppDbContext>(opt=>opt.UseInMemoryDatabase("InMem"));
+builder.Services.AddDbContext<AppDbContext>(
+    opt=>opt.UseSqlServer(builder.Configuration.GetConnectionString("PlatformsConn")));
+
+
 builder.Services.AddScoped<IPlatformRepo,PlatformRepo>();
 builder.Services.AddHttpClient<ICommandDataClient,HttpCommandDataClient>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());

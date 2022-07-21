@@ -37,7 +37,7 @@ spec:
           type: Directory
       terminationGracePeriodSeconds: 30
       securityContext:
-        fsGroup: 10001    
+        fsGroup: 10001  
 ---
 apiVersion: v1
 kind: Service

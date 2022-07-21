@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using PlatformService.Models;
 
 namespace PlatformService.Data
@@ -18,6 +19,14 @@ namespace PlatformService.Data
 
         private static void SeedData(AppDbContext context)
         {
+                /*try
+                {
+                    context.Database.Migrate();
+                }
+                catch(Exception ex)
+                {
+                    Console.WriteLine($"--> Could not run migrations: {ex.Message}");
+                }*/
             if (!context.Platforms.Any())
             {
                 Console.WriteLine("--> Seeding Data...");
